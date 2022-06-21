@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:336699,100:4C5870&height=300&section=header&text=SeongHo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<p align='center'> SeongHo GitHub Profile</p>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center"> 💡used as the main </p>
