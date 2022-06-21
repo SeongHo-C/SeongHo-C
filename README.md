@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SeongHo%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SeongHo%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center"> 💡used as the main </p>
@@ -14,6 +14,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
+
+<br>
+<h3 align="center"> 🏅Baekjoon solved Rank </h3>
+
+<p align="center">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=leesung010)](https://solved.ac/leesung010)
+</p>
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
