@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SeongHo%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=150&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=26&desc=SeongHo%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+<div align="center">
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center"> 💡used as the main </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
@@ -13,15 +15,16 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
 <h3 align="center"> 🏅Baekjoon solved Rank </h3>
 
-<p align="center">
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leesung010)](https://solved.ac/leesung010)
-</p>
+</div>
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
