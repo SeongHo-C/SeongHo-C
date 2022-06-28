@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=200&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=32&desc=SeongHo%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=150&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=50&desc=SeongHo%20GitHub%20Profile&descAlignY=76&descAlign=62)
+
+---
 
 <div align="center">
 <h3 align="center">🛠Tech Stack🛠</h3>
@@ -22,8 +24,9 @@
 <br>
 
 ![SeongHo-C github stats](https://github-readme-stats.vercel.app/api?username=SeongHo-C&show_icons=true)
-
 <br>
+
+---
 <h3 align="center"> 🏅Baekjoon solved Rank </h3>
 
 [![Solved.ac
