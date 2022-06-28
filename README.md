@@ -16,12 +16,13 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Oracle-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Oracle-007396?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
+
 ![SeongHo-C github stats](https://github-readme-stats.vercel.app/api?username=SeongHo-C&show_icons=true)
-[![SeongHo-C github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHo-C&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SeongHo-C)
+
 <br>
 <h3 align="center"> 🏅Baekjoon solved Rank </h3>
 
