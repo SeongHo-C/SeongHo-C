@@ -26,11 +26,7 @@
 ![SeongHo-C github stats](https://github-readme-stats.vercel.app/api?username=SeongHo-C&show_icons=true)
 <br>
 
----
-<h3 align="center"> 🏅Baekjoon solved Rank </h3>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=leesung010)](https://solved.ac/leesung010)
 
 
 </div>
