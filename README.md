@@ -17,8 +17,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
