@@ -27,16 +27,14 @@
 </p>
 
 <br>
-
-![SeongHo-C github stats](https://github-readme-stats.vercel.app/api?username=SeongHo-C&show_icons=true)
-<br>
-
-
-
-
 </div>
 
+---
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHo-C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
