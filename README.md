@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=336699&height=150&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=50&desc=SeongHo%20GitHub%20Profile&descAlignY=76&descAlign=62)
 
----
 
 <div align="center">
-<h3 align="center">🛠Tech Stack🛠</h3>
-<p align="center"> 💡used as the main </p>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center"> 💡 used as the main </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> 💡used at the least once </p>
+<p align="center"> 💡 used at the least once </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -25,16 +24,17 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
-
 <br>
 </div>
 
----
-<div align="center">
+<h3 align="center">🍀 About Me 🍀</h3><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHo-C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<p align="center">
+    <a href="https://leeseong010.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
+    </p>
+
+<p align="center">Click to go 👆</p>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
