@@ -27,8 +27,10 @@
 
 
 <p align="center">
-    <a href="https://leeseong010.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
-    </p>
+    <a href="https://leeseong010.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-D0A9F5?style=flat-square&logo=Tistory&logoColor=white&link=https://leeseong010.tistory.com/"/></a>&nbsp
+    <a href="https://glen-show-8be.notion.site/5c6d878af3a5491b98a88dffd81b4aed"><img src="https://img.shields.io/badge/Portfolio-A9BCF5?style=flat-square&logo=Notion&logoColor=white&link=https://glen-show-8be.notion.site/5c6d878af3a5491b98a88dffd81b4aed"/></a>  
+   
+</p>
 
 <p align="center">Click to go 👆</p>
 
