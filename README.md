@@ -13,21 +13,11 @@
 <br>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> 💡 used at the least once </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-</p>
-<br>
 </div>
 
 <h3 align="center">🍀 About Me 🍀</h3><br>
