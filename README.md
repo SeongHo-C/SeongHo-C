@@ -1,5 +1,5 @@
 ## 이성호
-#### Frontend Developer 
+#### 🌱 Frontend Developer 
 
 <br/>
 
