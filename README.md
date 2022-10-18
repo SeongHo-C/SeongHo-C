@@ -3,16 +3,14 @@
 <br/>
 
 <div align="center">
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center"> Techs that I've used as the main </p>
+<h3 align="center"> 💁‍♂️💻Tech Stack </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-<br>
+<br/>
 </p>
 </div>   
-<br/>
 
 <h3 align="center">🔎 About Me</h3>
 <p align="center">
