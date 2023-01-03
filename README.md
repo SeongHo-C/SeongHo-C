@@ -1,25 +1,27 @@
 ## 이성호
-#### 🌱 front-end developer 
+#### 🌱 front-end developer
+* 함께 하고 싶은 개발자를 목표로 공부중인 웹 프론트엔드 엔지니어 꿈나무입니다.
+* 현재는 React-Query를 공부하고 있으며 현재 진행중인 "바로" 프로젝트에 적용할 예정입니다.
+
 <br/>
 
-<div align="center">
-<h3 align="center"> 📚 Tech Stack </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
+🛠 Tech Stack
+
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80"> <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+
 <br/>
-</p>
-</div>   
 
-<h3 align="center">🔎 About Me</h3>
-<p align="center">
-    <a href="https://leeseong010.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-D0A9F5?style=flat-square&logo=Tistory&logoColor=white&link=https://leeseong010.tistory.com/"/></a>&nbsp
-    <a href="https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38"><img src="https://img.shields.io/badge/Portfolio-A9BCF5?style=flat-square&logo=Notion&logoColor=white&link=https://glen-show-8be.notion.site/5c6d878af3a5491b98a88dffd81b4aed/"/></a>  
-   
-</p>
+🏆 Awards
 
-<p align="center">Click to go 👆</p>
+제 9회 소프트웨어 개발보안 경진대회 대상(행정안전부 장관상) 수상
+
+<br/>
+
+🐰 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeseong7130@gmail.com)](leeseong7130@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)](https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=Tistory&logoColor=white&link=https://leeseong010.tistory.com)](https://leeseong010.tistory.com)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
