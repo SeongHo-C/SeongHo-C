@@ -1,7 +1,7 @@
 ## 이성호
 #### 🌱 front-end developer
 * 함께 하고 싶은 개발자를 목표로 공부중인 웹 프론트엔드 엔지니어 꿈나무입니다.
-* 현재는 React-Query를 공부하고 있으며 현재 진행중인 "바로" 프로젝트에 적용할 예정입니다.
+* 현재는 React-Query를 공부하고 있으며 현재 진행중인 ["바로"](https://github.com/SeongHo-C/Baro) 프로젝트에 적용할 예정입니다.
 
 <br/>
 
