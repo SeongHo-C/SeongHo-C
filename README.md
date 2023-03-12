@@ -1,6 +1,7 @@
 ## 이성호
 #### 🌱 front-end developer
 * 함께 하고 싶은 개발자를 목표로 공부중인 웹 프론트엔드 엔지니어 꿈나무입니다.
+* 현재 엘리스 SW 엔지니어 트랙 4기에 참여하여 공부하고 있습니다.
 
 <br/>
 
@@ -19,7 +20,7 @@
 🐰 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeseong7130@gmail.com)](leeseong7130@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)](https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)
+[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)](https://glen-show-8be.notion.site/e21a3f2ac969483096c2619911438e38)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=Tistory&logoColor=white&link=https://leeseong010.tistory.com)](https://leeseong010.tistory.com)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
