@@ -14,5 +14,5 @@
 ---
 
 ### Awards
-**Minister of the Interior and Safety Award** (Nov 2022)
-* **The 9th SW Secure Coding Contest** (Organized by KISA)
+**🥇 Minister of the Interior and Safety Award** (Nov 2022)
+* **The 9th SW Secure Coding Contest** (Hosted by KISA)
