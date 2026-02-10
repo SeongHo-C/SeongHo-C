@@ -10,3 +10,9 @@
 * **Interactive Pig Farm Metaverse System** (*Feb 2024 – Jun 2024*)
 
 **Intern** @ **Victrontech Inc.** (*Oct 2023 – Jan 2024*)
+
+---
+
+### Awards
+**Minister of the Interior and Safety Award** (Nov 2022)
+* **The 9th SW Secure Coding Contest** (Organized by KISA)
